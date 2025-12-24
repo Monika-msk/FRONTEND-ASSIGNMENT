@@ -39,4 +39,3 @@ Next steps / improvements (optional)
 - Improve UI with a design system
 - Add real charting library for rich analytics
 
-Enjoy! ✅
